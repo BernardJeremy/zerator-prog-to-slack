@@ -1,0 +1,23 @@
+{
+  "name": "zerator-prog-to-slack",
+  "version": "1.0.0",
+  "description": "Node.JS script sending slack message with zerator's stream programmation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernardJeremy/zerator-prog-to-slack.git"
+  },
+  "author": "BernardJeremy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BernardJeremy/zerator-prog-to-slack/issues"
+  },
+  "homepage": "https://github.com/BernardJeremy/zerator-prog-to-slack#readme",
+  "dependencies": {
+    "request": "^2.75.0",
+    "slack-node": "^0.1.8"
+  }
+}
